@@ -2,7 +2,9 @@
 // Write your code here
 
 multiply =() => {
-  let multiply , num1 = 4 , num2 =15.5;
+  let multiply;
+  let num1 = 4 ;
+  let  num2 =15.5;
   multiply =  num1 * num2 ;
 }
 multiply(multiply);

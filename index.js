@@ -1,14 +1,14 @@
 
 // Write your code here
 
-multiply =() => {
+let multiply = () => {
   let multiply;
   let num1 = 4 ;
   console.log(Number.isInteger(num1));
   let  num2 =15.5;
   multiply =  num1 * num2 ;
 }
-multiply(multiply);
+multiply();
 
 
 random = () =>{

@@ -15,3 +15,5 @@
 
 
 let mod  =  Number.parseInt('4' , 10) ;
+
+let max = Math.max(20 , 10) ;

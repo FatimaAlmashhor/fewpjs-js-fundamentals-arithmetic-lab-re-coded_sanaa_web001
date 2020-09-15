@@ -12,6 +12,8 @@ multiplye();
 
 
 let random = () =>{
-  return  Math.floor(Math.random() * 10) + 1;
+  let randomNo =  Math.floor(Math.random() * 10) + 1;
+  console.log(randomNo);
+  return randomNo;
 }
 random();

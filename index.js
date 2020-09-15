@@ -12,3 +12,6 @@
 
   let random =  Math.floor(Math.random() * 10) + 1;
   console.log(random);
+
+
+let mod  =  Number.parseInt('4' , 10) ;

@@ -11,8 +11,7 @@ let multiplye = () => {
 multiplye();
 
 
-random = () =>{
-  let random ;
-  random =  Math.floor(Math.random() * 10) + 1;
+let random = () =>{
+  return  Math.floor(Math.random() * 10) + 1;
 }
 random();
